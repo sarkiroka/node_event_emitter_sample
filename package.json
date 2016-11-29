@@ -1,0 +1,21 @@
+{
+  "name": "node-event-emitter-sample",
+  "version": "1.0.0",
+  "description": "nodejs addon example for event emitting",
+  "author": "sarkiroka",
+  "homepage": "https://github.com/sarkiroka/node_event_emitter_sample",
+  "main": "main.js",
+  "gypfile": true,
+  "scripts": {
+    "start": "node start.js"
+  },
+  "license": "MIT",
+  "repository": {
+    "type":"git",
+    "url": "https://github.com/sarkiroka/node_event_emitter_sample.git"
+  },
+  "dependencies": {
+    "bindings": "1.2.1",
+    "nan": "2.4.0"
+  }
+}

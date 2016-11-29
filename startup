@@ -1,0 +1,4 @@
+#!/bin/sh
+# starts the project
+
+node start.js
